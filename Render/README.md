@@ -37,3 +37,8 @@ Design: Agreed on the pirate ship theme and created an initial concept sketch.
 Modeling: Divided work among team members while maintaining scale and proportions.
 Texturing and Integration: Combined all assets into one scene and refined it collaboratively.
 Final Render: Adjusted lighting, composition, and materials as a group to achieve a high-quality final output.
+
+
+## texture used:
+wood planks: https://www.texturecan.com/details/389/
+roof shingles: https://www.filterforge.com/filters/1474-normal.html (only a normal map was used)
