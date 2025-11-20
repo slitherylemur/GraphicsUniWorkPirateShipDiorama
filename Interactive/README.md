@@ -1,5 +1,8 @@
 # Graphics Coursework: Interactive Section
 
+# explination video:
+https://youtu.be/U5rqU611Yk4
+
 # To run the interactive sequence
 cd to the Interactive folder
 run: **python -m http.server 8000** (can be a different port)
